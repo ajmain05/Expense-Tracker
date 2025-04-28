@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="add_transaction">Add Transaction</string>
+    <string name="close_button">Close</string>
+</resources>
