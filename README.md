@@ -1,0 +1,1 @@
+A simple and clean Expense Tracker application built using Kotlin in Android Studio, with Local Database Room for authentication and backend services.The app allows users to record, edit, delete, and analyze their daily expenses and incomes with an easy-to-use interface.
